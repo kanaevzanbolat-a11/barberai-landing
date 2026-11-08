@@ -1,6 +1,6 @@
 // ===== CONFIGURATION =====
 // Paste the PRODUCTION webhook URL from the n8n Webhook node (not the "test" URL).
-const N8N_WEBHOOK_URL = "PASTE_PRODUCTION_WEBHOOK_URL_HERE";
+const N8N_WEBHOOK_URL = "https://ai2.mnu.kz/webhook/barberai-booking";
 // =========================
 
 const form = document.getElementById("bookingForm");
